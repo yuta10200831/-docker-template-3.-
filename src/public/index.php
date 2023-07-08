@@ -5,4 +5,3 @@
   }
   $totalNumber = array_sum($numbers);
   echo $totalNumber;
-  
